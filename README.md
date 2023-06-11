@@ -1,2 +1,2 @@
 #Web-based application that allows one person to create a draft where multiple users can also participate in the draft. Users who create the draft have a option to choose how many rounds there can be, who the drafters will be, and how many options the drafters will pick from. 
-#At the end, the web based application will display the list of who each individual drafter selected and which round it was for the drafters.
+At the end, the web based application will display the list of who each individual drafter selected and which round it was for the drafters.
